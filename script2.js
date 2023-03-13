@@ -16,7 +16,7 @@
 
 // //2.Convert all the strings to title caps in a string array
 
-// let stringArray = ["Akshay", "is", "a", "smart", "developer"]
+// let stringArray = ["Madhan", "is", "a", "smart", "developer"]
 
 // stringArray = stringArray.map((item) => {
 

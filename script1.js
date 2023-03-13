@@ -23,7 +23,7 @@
 
 
 // //2.Convert all the strings to title caps in a string array
-// let stringArray = ["Amarnath", 'is', 'a', 'smart', 'developer']
+// let stringArray = ["Gouse basha", 'is', 'a', 'smart', 'developer']
 
 // let resultStringArray = (function (stringArray) {
 
